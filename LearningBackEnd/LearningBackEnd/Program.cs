@@ -1,2 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using LearningBackEnd.HomeWork6;
+
+#if true
+HomeWork6Program.Run();
+#endif
