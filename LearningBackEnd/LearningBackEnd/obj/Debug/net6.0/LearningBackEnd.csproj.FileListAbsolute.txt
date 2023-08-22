@@ -1,0 +1,14 @@
+C:\Users\ThePham\Desktop\Work\LearningBackEnd\Git\Learning-BE.Net\LearningBackEnd\LearningBackEnd\bin\Debug\net6.0\LearningBackEnd.exe
+C:\Users\ThePham\Desktop\Work\LearningBackEnd\Git\Learning-BE.Net\LearningBackEnd\LearningBackEnd\bin\Debug\net6.0\LearningBackEnd.deps.json
+C:\Users\ThePham\Desktop\Work\LearningBackEnd\Git\Learning-BE.Net\LearningBackEnd\LearningBackEnd\bin\Debug\net6.0\LearningBackEnd.runtimeconfig.json
+C:\Users\ThePham\Desktop\Work\LearningBackEnd\Git\Learning-BE.Net\LearningBackEnd\LearningBackEnd\bin\Debug\net6.0\LearningBackEnd.dll
+C:\Users\ThePham\Desktop\Work\LearningBackEnd\Git\Learning-BE.Net\LearningBackEnd\LearningBackEnd\bin\Debug\net6.0\LearningBackEnd.pdb
+C:\Users\ThePham\Desktop\Work\LearningBackEnd\Git\Learning-BE.Net\LearningBackEnd\LearningBackEnd\obj\Debug\net6.0\LearningBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThePham\Desktop\Work\LearningBackEnd\Git\Learning-BE.Net\LearningBackEnd\LearningBackEnd\obj\Debug\net6.0\LearningBackEnd.AssemblyInfoInputs.cache
+C:\Users\ThePham\Desktop\Work\LearningBackEnd\Git\Learning-BE.Net\LearningBackEnd\LearningBackEnd\obj\Debug\net6.0\LearningBackEnd.AssemblyInfo.cs
+C:\Users\ThePham\Desktop\Work\LearningBackEnd\Git\Learning-BE.Net\LearningBackEnd\LearningBackEnd\obj\Debug\net6.0\LearningBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\ThePham\Desktop\Work\LearningBackEnd\Git\Learning-BE.Net\LearningBackEnd\LearningBackEnd\obj\Debug\net6.0\LearningBackEnd.dll
+C:\Users\ThePham\Desktop\Work\LearningBackEnd\Git\Learning-BE.Net\LearningBackEnd\LearningBackEnd\obj\Debug\net6.0\refint\LearningBackEnd.dll
+C:\Users\ThePham\Desktop\Work\LearningBackEnd\Git\Learning-BE.Net\LearningBackEnd\LearningBackEnd\obj\Debug\net6.0\LearningBackEnd.pdb
+C:\Users\ThePham\Desktop\Work\LearningBackEnd\Git\Learning-BE.Net\LearningBackEnd\LearningBackEnd\obj\Debug\net6.0\LearningBackEnd.genruntimeconfig.cache
+C:\Users\ThePham\Desktop\Work\LearningBackEnd\Git\Learning-BE.Net\LearningBackEnd\LearningBackEnd\obj\Debug\net6.0\ref\LearningBackEnd.dll
