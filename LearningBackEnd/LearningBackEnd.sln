@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningBackEnd", "LearningBackEnd\LearningBackEnd.csproj", "{F47F935A-429E-48A3-828C-7C9965588A8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningBackEnd", "LearningBackEnd\LearningBackEnd.csproj", "{F47F935A-429E-48A3-828C-7C9965588A8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutodeskForge", "..\TestAutodeskForge\TestAutodeskForge.csproj", "{AA184C03-348E-4C6F-B380-190C827EE233}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F47F935A-429E-48A3-828C-7C9965588A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F47F935A-429E-48A3-828C-7C9965588A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F47F935A-429E-48A3-828C-7C9965588A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA184C03-348E-4C6F-B380-190C827EE233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA184C03-348E-4C6F-B380-190C827EE233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA184C03-348E-4C6F-B380-190C827EE233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA184C03-348E-4C6F-B380-190C827EE233}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
