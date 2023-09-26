@@ -15,9 +15,10 @@ namespace Shop.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.NumProduct = ProductManager.GetNumberProduct();
             return View();
         }
-        
+
         public IActionResult Privacy()
         {
             return View();

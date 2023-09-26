@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningBackEnd", "Learning
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestAutodeskForge", "..\TestAutodeskForge\TestAutodeskForge.csproj", "{AA184C03-348E-4C6F-B380-190C827EE233}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop", "Shop\Shop.csproj", "{FABD4559-6E93-4399-8DC6-50626BA2F0DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop", "Shop\Shop.csproj", "{FABD4559-6E93-4399-8DC6-50626BA2F0DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Models", "Shop.Models\Shop.Models.csproj", "{9B4E9416-9001-495B-8581-79421C7260A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Models", "Shop.Models\Shop.Models.csproj", "{515D32C0-B847-4F26-83B1-37E4A07AECF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{FABD4559-6E93-4399-8DC6-50626BA2F0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FABD4559-6E93-4399-8DC6-50626BA2F0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FABD4559-6E93-4399-8DC6-50626BA2F0DC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9B4E9416-9001-495B-8581-79421C7260A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9B4E9416-9001-495B-8581-79421C7260A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9B4E9416-9001-495B-8581-79421C7260A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9B4E9416-9001-495B-8581-79421C7260A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515D32C0-B847-4F26-83B1-37E4A07AECF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515D32C0-B847-4F26-83B1-37E4A07AECF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515D32C0-B847-4F26-83B1-37E4A07AECF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515D32C0-B847-4F26-83B1-37E4A07AECF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
