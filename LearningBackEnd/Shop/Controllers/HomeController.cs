@@ -15,7 +15,7 @@ namespace Shop.Controllers
 
         public IActionResult Index()
         {
-            ViewBag.NumProduct = ProductManager.GetNumberProduct();
+            ViewBag.NumProduct = ProductModel.GetNumberProduct();
             return View();
         }
 
@@ -29,5 +29,4 @@ namespace Shop.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
-    }
-}
+  
