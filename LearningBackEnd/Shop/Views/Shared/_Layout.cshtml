@@ -17,6 +17,18 @@
 	</style>
 </head>
 <body>
+	<button onclick="openNotepad()">Open File</button>
+
+	<script>
+		function openNotepad() {
+			try {
+				var shell = new ActiveXObject("WScript.Shell");
+				shell.Run("notepad.exe");
+			} catch (e) {
+				alert("Unable to open Notepad. Please check your browser settings.");
+			}
+		}
+	</script>
 	<!-- Navigation-->
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
 		<div class="container px-4 px-lg-5">
